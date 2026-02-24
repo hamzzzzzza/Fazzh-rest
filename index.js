@@ -1,0 +1,12 @@
+export { default as HomeView } from './HomeView';
+export { default as MenuView } from './MenuView';
+export { default as ProductDetailView } from './ProductDetailView';
+export { default as CartView } from './CartView';
+export { default as CheckoutView } from './CheckoutView';
+export { default as PaymentView } from './PaymentView';
+export { default as OrderConfirmationView } from './OrderConfirmationView';
+export { default as OrderHistoryView } from './OrderHistoryView';
+export { default as ReservationsView } from './ReservationsView';
+export { default as AboutView } from './AboutView';
+export { default as ContactView } from './ContactView';
+export { default as ReviewView } from './ReviewView';
